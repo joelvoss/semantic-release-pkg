@@ -1,7 +1,7 @@
 {
   "name": "semantic-release-pkg",
   "version": "0.0.1",
-  "author": "Joel Voß <joel.voss@adesso.de>",
+  "author": "Joel Voß <mail@joelvoss.com>",
   "private": true,
   "bin": {
     "semantic-release": "./node_modules/.bin/semantic-release"
