@@ -1,0 +1,21 @@
+{
+  "name": "semantic-release-pkg",
+  "version": "0.0.1",
+  "author": "Joel Voß <joel.voss@adesso.de>",
+  "private": true,
+  "bin": {
+    "semantic-release": "./node_modules/.bin/semantic-release"
+  },
+  "dependencies": {
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/exec": "^5.0.0",
+    "@semantic-release/git": "^9.0.0",
+    "semantic-release": "^17.4.5"
+  },
+  "devDependencies": {
+    "pkg": "^5.3.1"
+  },
+  "pkg": {
+    "outputPath": "dist"
+  }
+}
