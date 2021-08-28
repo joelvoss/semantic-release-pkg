@@ -1,6 +1,6 @@
 {
   "name": "semantic-release-pkg",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "author": "Joel Voß <mail@joelvoss.com>",
   "private": true,
   "bin": {
