@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/joelvoss/semantic-release-pkg/compare/v1.0.0...v1.1.0) (2022-02-05)
+
+
+### Features
+
+* update `semantic-release` to v19.0.2 ([45a3e80](https://github.com/joelvoss/semantic-release-pkg/commit/45a3e80534327f94ecf5c16ce24063d490ff64fb))
+
 # 1.0.0 (2021-08-28)
 
 
