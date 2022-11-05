@@ -15,7 +15,7 @@ fi
 build() {
   rm -rf dist
 
-  pkg . $*
+  pkg --no-bytecode . $*
 }
 
 clean() {

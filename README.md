@@ -5,7 +5,7 @@ in environments where no Nodejs is installed.
 
 ## Requirements
 
-  - Node v14+
+  - Node v16+
 
 ## Development
 
