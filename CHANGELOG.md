@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/joelvoss/semantic-release-pkg/compare/v1.1.0...v1.2.0) (2022-11-05)
+
+
+### Features
+
+* update dependencies and disable bytecode generation ([bde300b](https://github.com/joelvoss/semantic-release-pkg/commit/bde300b56da9b517abbdc14dec9af218f4f2ce12))
+
 # [1.1.0](https://github.com/joelvoss/semantic-release-pkg/compare/v1.0.0...v1.1.0) (2022-02-05)
 
 
